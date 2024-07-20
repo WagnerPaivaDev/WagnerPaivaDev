@@ -7,7 +7,7 @@ Estudei algoritimia, Linux, virtualização, Engenharia de Software, Base de dad
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerPaivaDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerPaivaDev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerPaivaDev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -32,3 +32,7 @@ Estudei algoritimia, Linux, virtualização, Engenharia de Software, Base de dad
     <a href = "https://www.linkedin.com/in/wagner-paiva-94803261/">
       <img width="25" src="linkedin.svg">
     </a>
+
+  </div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
